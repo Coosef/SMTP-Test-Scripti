@@ -29,11 +29,11 @@ cd smtp-tester
 3. `smtp_test.py` dosyasını açın ve SMTP bilgilerinizi girin:
 
 ```python
-smtp_server = "smtp.office365.com"
+smtp_server = "SMTP suncusu"
 smtp_port = 587
-smtp_user = "scanner@atghotels.com"
+smtp_user = "Gönderici Mail Adresi"
 smtp_password = "SIFRENIZ"
-receiver_email = "emre.basmaci@atghotels.com"
+receiver_email = "Alıcı Mail Adresi"
 ```
 
 ## ▶️ Kullanım
