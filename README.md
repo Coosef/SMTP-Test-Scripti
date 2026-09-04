@@ -51,7 +51,7 @@ python smtp_test.py
 🔐 TLS bağlantısı kuruldu.
 🔑 SMTP sunucusuna giriş yapılıyor...
 ✅ Giriş başarılı!
-✉️ Mail gönderiliyor → emre.basmaci@atghotels.com
+✉️ Mail gönderiliyor → demo@test.com
 📬 Mail başarıyla gönderildi!
 ```
 
